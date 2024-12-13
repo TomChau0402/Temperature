@@ -1,0 +1,6 @@
+1.create the repo on github.com
+2. create the folder in my computer
+3.open the folder on my VS code
+4. open the terminal on the VS code.
+5. Copy adn paste the instructions for creating a new repo.
+6. create an index.html, mystyle.css and script folder
