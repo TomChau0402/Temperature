@@ -1,7 +1,7 @@
 console.log("Temperature from Celsius to Fahrenheit");
 
 //let temperature =prompt("Please enter temperture");
-
+// Got help from Tutor
 
 function convertTemperature() {
     let temp=prompt("Enter the temperature");
